@@ -32,7 +32,7 @@ Include screenshots of the login screens, student dashboard, and admin dashboard
 - Swing (for GUI)
 
 
-Ayush Gorlawar
+
 
 ## Changing Image Paths
 
@@ -51,4 +51,5 @@ If you want to change the paths of the images used in the main page (`Attendance
 
 # License
 This project is licensed under the MIT License.
+# # Ayush Gorlawar
   

@@ -34,6 +34,21 @@ Include screenshots of the login screens, student dashboard, and admin dashboard
 
 Ayush Gorlawar
 
+## Changing Image Paths
+
+If you want to change the paths of the images used in the main page (`AttendanceSystemGUI.java`) and the admin dashboard (`AdminDashboard.java`), follow these steps:
+
+1. **Locate the Image Files:** Find the image files used in the project. By default, they are located in the following directories:
+   - `AttendanceSystemGUI.java`: `"C:\Users\ayush\eclipse-workspace\Attendance_SystemGUI\src\com\example\attendance\image.png"`
+   - `AdminDashboard.java`: `"C:\Users\ayush\eclipse-workspace\Attendance_SystemGUI\src\com\example\attendance\Admin+Panel.png"`
+
+2. **Replace the Image Paths:** Open the respective Java files (`AttendanceSystemGUI.java` and `AdminDashboard.java`) in your preferred text editor or IDE.
+
+3. **Modify Image Paths:** Look for the lines where the image paths are specified and modify them according to the new paths of your image files. Update the paths to point to the new locations of your image files.
+
+4. **Compile and Run:** After making the changes, compile and run the project to ensure that the images are loaded correctly from the new paths.
+
+
 # License
 This project is licensed under the MIT License.
   

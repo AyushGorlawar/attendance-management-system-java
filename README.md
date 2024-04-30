@@ -25,7 +25,7 @@ To get started with the Attendance Management System, follow these steps:
 4. **Login:** Upon running the application, you will be prompted to log in as a student or admin.
 
 # Screenshots
-[MAIN MENU]([Image URL](https://cdn.discordapp.com/attachments/1234822612064931894/1234822696856977409/image.png?ex=663221c0&is=6630d040&hm=db8d40f911117066179f25b7558e0226f5788752ff706fa2e85fd19bc2dd22bd&))
+[MAIN MENU]([https://cdn.discordapp.com/attachments/1234822612064931894/1234822696856977409/image.png?ex=663221c0&is=6630d040&hm=db8d40f911117066179f25b7558e0226f5788752ff706fa2e85fd19bc2dd22bd&])
 
 # Technologies Used
 - Java
